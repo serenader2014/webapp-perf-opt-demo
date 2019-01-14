@@ -10,6 +10,6 @@
 
 通过使用 [WebPageTest](https://www.webpagetest.org) 对初始代码进行性能测试，可以得到这样一张资源加载瀑布图：
 
-![waterfall](./screen/waterfall.png)
+![waterfall](./screenshot/waterfall.png)
 
 具体结果可以访问 [https://www.webpagetest.org/result/190114_73_25e4b17b58bb77c8013af6a295d4c17c/1/details/](https://www.webpagetest.org/result/190114_73_25e4b17b58bb77c8013af6a295d4c17c/1/details/) 查看。
