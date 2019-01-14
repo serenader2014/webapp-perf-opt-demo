@@ -12,4 +12,4 @@
 
 ![waterfall](./screenshot/waterfall.png)
 
-具体结果可以访问 [https://www.webpagetest.org/result/190114_73_25e4b17b58bb77c8013af6a295d4c17c/1/details/](https://www.webpagetest.org/result/190114_73_25e4b17b58bb77c8013af6a295d4c17c/1/details/) 查看。
+具体结果可以访问 [https://www.webpagetest.org/result/190114_72_7d845d3faa50617d157d9e93fffa5301/1/details/](https://www.webpagetest.org/result/190114_72_7d845d3faa50617d157d9e93fffa5301/1/details/) 查看。
