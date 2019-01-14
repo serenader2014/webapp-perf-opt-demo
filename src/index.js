@@ -5,8 +5,8 @@ import * as serviceWorker from './serviceWorker';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import asyncComponent from './asyncComponent';
 
-const AsyncApp = asyncComponent(() => import('./App'));
-const AsyncAbout = asyncComponent(() => import('./About'));
+const AsyncApp = asyncComponent(() => import(/* webpackChunkName: "app" */'./App'));
+const AsyncAbout = asyncComponent(() => import(/* webpackChunkName: "about" */'./About'));
 
 class App extends Component {
   render() {
