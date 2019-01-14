@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "webapp-perf",
-  "alias": ["webapp-perf"],
+  "alias": ["webapp-perf-preload-v1"],
   "builds": [
     {
       "src": "package.json",
