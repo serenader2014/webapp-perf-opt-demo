@@ -1,6 +1,7 @@
 {
   "version": 2,
-  "name": "webapp-perf-v1",
+  "name": "webapp-perf",
+  "alias": ["webapp-perf"],
   "builds": [
     {
       "src": "package.json",
